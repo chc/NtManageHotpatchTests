@@ -1,0 +1,3 @@
+LIBRARY   OriginalDLL
+EXPORTS
+   simple_function   @1

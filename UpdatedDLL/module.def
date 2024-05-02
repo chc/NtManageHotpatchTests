@@ -1,0 +1,6 @@
+LIBRARY   OriginalDLL
+EXPORTS
+	__PatchMainCallout__ @1
+	simple_function   @2
+	g_HotpatchDefinition @3
+   
